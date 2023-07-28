@@ -6,7 +6,3 @@
 
 # OTA
 PRODUCT_PACKAGES += UpdaterOverlay
-
-# Translations
-PRODUCT_PACKAGES += \
-    MotorTranslationsOverlay
