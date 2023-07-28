@@ -6,8 +6,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- URL to be checked for OTA updates -->
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/raul-16/davinci_builds/lineage-20/davinci.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/raul-16/cupid_builds/lineage-20/cupid_gms.json</string>
 
     <!-- URL to changelog -->
-    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/raul-16/davinci_builds/lineage-20/davinci.txt</string>
+    <string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/raul-16/cupid_builds/lineage-20/cupid_gms.txt</string>
 </resources>
