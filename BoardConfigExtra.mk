@@ -5,7 +5,7 @@
 #
 
 # MiuiCamera
--include device/xiaomi/miuicamera-cupid/BoardConfig.mk
+-include device/xiaomi/miuicamera-peridot/BoardConfig.mk
 
 # Pixel Clocks
 -include vendor/pixel_clocks/board.mk

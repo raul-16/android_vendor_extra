@@ -5,7 +5,7 @@
 #
 
 # MiuiCamera
-$(call inherit-product-if-exists, device/xiaomi/miuicamera-cupid/device.mk)
+$(call inherit-product-if-exists, device/xiaomi/miuicamera-peridot/device.mk)
 
 # OTA
 PRODUCT_PACKAGES += UpdaterOverlay
